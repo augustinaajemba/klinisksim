@@ -1,5 +1,10 @@
 # 🏥 KliniskSim
+🔗 **[Live demo](https://klinisksim-ai.lovable.app)** — 
+tilgang etter forespørsel
 
+> ⚠️ Lukket beta. Kontakt via 
+> [LinkedIn](https://linkedin.com/in/augustina-ajemba) 
+> for demo-tilgang.
 > Klinisk trening for sykepleiere, når som helst, hvor som helst.
 
 ![Version](https://img.shields.io/badge/Version-0.9%20MVP-0B3D91)
