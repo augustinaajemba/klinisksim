@@ -16,7 +16,7 @@ tilgang etter forespørsel
 > **KliniskSim er utviklet med norsk helsevesen i tankene.**
 > Appen bruker norsk lovverk, norske medikamentnavn, norske
 > helseinstitusjoner og norske kliniske retningslinjer gjennom
-> hele opplevelsen , fra Legevakt til Demensskjermet avdeling.
+> hele opplevelsen , fra legevakten til Demensskjermet avdeling.
 
 ---
 
