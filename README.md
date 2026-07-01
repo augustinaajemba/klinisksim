@@ -42,6 +42,23 @@ Appen er bygget rundt fem kliniske arenaer som gjenspeiler norsk helsevesen:
 | 🧠 Demensskjermet avdeling | Tvang, samtykke, §4A |
 
 ---
+## 📱 Skjermbilder
+
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### Case-velger
+![Case-velger](screenshots/case-velger.png)
+
+### Case-skjerm — pasient og spørsmål
+![Case](screenshots/case-skjerm.png)
+
+### Svar — riktig valgt
+![Riktig svar](screenshots/svar-riktig.png)
+
+### Svar — feil valgt med faglig begrunnelse
+![Feil svar](screenshots/svar-feil.png)
+---
 
 ## Hvordan fungerer det?
 
