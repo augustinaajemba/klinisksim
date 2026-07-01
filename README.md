@@ -45,19 +45,19 @@ Appen er bygget rundt fem kliniske arenaer som gjenspeiler norsk helsevesen:
 ## 📱 Skjermbilder
 
 ### Dashboard — velg klinisk arena
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/Dashboard.png)
 
 ### Case-velger — velg vanskelighetsgrad
-![Case-velger](screenshots/case-velger.png)
+![Case-velger](screenshots/Case-velger.png)
 
 ### Case-skjerm — pasient og spørsmål
-![Case-skjerm](screenshots/case-skjerm.png)
+![Case-skjerm](screenshots/Case-skjerm.png)
 
 ### Svar — riktig valgt
-![Riktig svar](screenshots/svar-riktig.png)
+![Riktig svar](screenshots/Svar-riktig.png)
 
 ### Svar — feil valgt med faglig begrunnelse
-![Feil svar](screenshots/svar-feil.png)
+![Feil svar](screenshots/Svar-feil.png)
 ---
 
 ## Hvordan fungerer det?
